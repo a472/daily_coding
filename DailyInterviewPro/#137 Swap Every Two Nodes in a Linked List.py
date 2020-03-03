@@ -1,3 +1,10 @@
+"""
+Hi, here's your problem today. This problem was recently asked by Twitter:
+
+Given a linked list, swap the position of the 1st and 2nd node, then swap the position of the 3rd and 4th node etc.
+
+"""
+
 class Node:
 	def __init__(self, value, next=None):
 		self.value = value
