@@ -11,7 +11,7 @@ prefix which is also suffix.
 
 # bruteforce
 # string = "aabcdaabc"
-string = "aaaa"
+string = "aaab"
 
 maxlen=0
 for i in range(len(string)//2):
