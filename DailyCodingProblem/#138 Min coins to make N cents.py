@@ -20,7 +20,7 @@ def get_min_coins(change,coins):
     return dp[change]
 
 
-change = 7
+change = 3
 coins = [1,2]
 
 print(get_min_coins(change, coins))
